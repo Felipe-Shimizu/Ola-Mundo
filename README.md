@@ -52,3 +52,11 @@ Criação de link
 ### [Descrioção do link](link)
 [Meu GitHub](https://github.com/Felipe-Shimizu)
 
+Criando tabelas:
+Num | Nome | Nota
+---|---|---
+1 | teste1 | 7,0
+2 | teste2 | 4,0
+3 | teste3 | 9,9
+
+
