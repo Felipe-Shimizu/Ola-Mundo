@@ -43,6 +43,13 @@ Lista com Marcação
 
 __*Italico e Negrito*__
 
+Adição de crase (') para códigos `document.getElemntByld()`
+
+```
+Código Completo
+
+```
+
 
 Criação de Imagem
 ### ![descrição da imagem](fonte da imagem)
@@ -58,5 +65,3 @@ Num | Nome | Nota
 1 | teste1 | 7,0
 2 | teste2 | 4,0
 3 | teste3 | 9,9
-
-
