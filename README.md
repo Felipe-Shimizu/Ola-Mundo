@@ -37,6 +37,10 @@ Lista com Marcação
 - [ ] teste3
 - [ ] teste4
 
+Inserindo Emojis (:):
+[Emojis p/ texto em Markdown](github.com/ikatyan)
+[Emojis p/ Título](emojipedia.org)
+
 **Negrito** , __Negrito__
 
 *Italico*
