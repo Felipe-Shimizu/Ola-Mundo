@@ -42,3 +42,13 @@ Lista com Marcação
 *Italico*
 
 __*Italico e Negrito*__
+
+
+Criação de Imagem
+### ![descrição da imagem](fonte da imagem)
+![ovelha](https://github.com/user-attachments/assets/cf498a61-6859-42a6-b91a-34e73aa93c4d)
+
+Criação de link
+### [Descrioção do link](link)
+[Meu GitHub](https://github.com/Felipe-Shimizu)
+
